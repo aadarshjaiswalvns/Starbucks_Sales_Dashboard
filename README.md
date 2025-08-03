@@ -1,6 +1,8 @@
 # ☕ Starbucks-Sales-Dashboard
 
-## 🔹 Overview
+![Power BI Dashboard](https://github.com/aadarshjaiswalvns/Starbucks_Sales_Dashboard/blob/main/Dashboard_preview.png)
+
+## 📊 Project Overview
 
 This project is a **fully interactive Sales Dashboard** for **Starbucks**, built entirely using **Microsoft Power BI**.  
 It provides *key business insights* into Starbucks' sales performance across **products**, **categories**, **time**, and **locations** — helping stakeholders make *data-driven decisions*.

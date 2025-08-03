@@ -56,7 +56,7 @@ It provides *key business insights* into Starbucks' sales performance across **p
 ## 📁 Files Included
 
 - `Starbucks Sales Dashboard.pbix` – Main Power BI dashboard file.
-- `Order.xlsx` & `Product.xlsx` – Raw datasets used for this dashboard.
+- `Starbucks_data.xlsx` – Raw dataset used for this dashboard.
 - `Dashboard_preview.png` – Image preview of the final dashboard.
 
 ## 🙋‍♂️ Author

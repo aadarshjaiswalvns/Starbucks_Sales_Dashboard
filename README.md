@@ -49,4 +49,21 @@ It provides *key business insights* into Starbucks' sales performance across **p
 - 🏬 **Replicate Store Strategy**: All locations perform equally well — consider expanding using the same model
 - 💳 **Increase Order Value**: Use **upselling (cookies, size upgrades)** to raise the ₹394 avg. bill
 - 🍫 **Push Low-Selling Categories**: Offer **deals on branded/packaged items** or **pair them** with bestsellers
-- 🍪 **Rethink Poor Performers**: Review and revamp **scone and drip coffee** offerings
+- 🍪 **Rethink Poor Performers**: Review and revamp **scone and drip coffee** offerings.
+
+## 📁 Files Included
+
+- `Starbucks Sales Dashboard.pbix` – Main Power BI dashboard file.
+- `Dashboard_preview.png` – Image preview of the final dashboard.
+
+## 🙋‍♂️ Author
+
+**Aadarsh Jaiswal**  
+Data Analyst | Excel & Power BI Enthusiast  
+📧 [aadarshjaiswal.vns@gmail.com](mailto:aadarshjaiswal.vns@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/aadarsh-jaiswal)  
+💻 [GitHub](https://github.com/aadarshjaiswalvns)
+
+---
+
+> ⭐ *If you found this project helpful, please consider giving it a star!*
